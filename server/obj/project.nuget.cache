@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BEsOU/UTKp8=",
+  "success": true,
+  "projectFilePath": "/home/nathansabin/project/csnvim/My-SelfHelp-App/server/server.csproj",
+  "expectedPackageFiles": [
+    "/home/nathansabin/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
